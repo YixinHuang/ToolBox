@@ -1,0 +1,3 @@
+export JAVA_HOME=/home/scs/tools/jdk-14/jdk-14.0.1
+export PATH=$JAVA_HOME/bin:$PATH
+

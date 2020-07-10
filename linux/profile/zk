@@ -1,0 +1,6 @@
+export JAVA_HOME=/home/scs/tools/jdk-14/jdk-14.0.1
+export PATH=$JAVA_HOME/bin:/home/scs/zookeeper-3.6.1/bin:$PATH
+export ZK_HOME=/home/scs/zookeeper-3.6.1
+export ZOOBINDIR=/home/scs/zookeeper-3.6.1/bin
+# source ${ZOOBINDIR}/zkEnv.sh
+
